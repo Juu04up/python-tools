@@ -1,0 +1,2 @@
+2026-07-15 11:22:57,283 INFO [test_01_login.py(test_01_login_success:25)] - 登录结果:13800001001
+2026-07-15 11:23:07,057 INFO [test_01_login.py(test_02_login_fail_pwd_error:36)] - 登录结果:密码错误1次,达到3次将锁定账户

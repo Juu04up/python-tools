@@ -1,0 +1,125 @@
+2026-07-14 13:08:51,690 INFO [test_01_login.py(test_01_login_success:25)] - 登录结果:13800001001
+2026-07-14 13:09:01,617 INFO [test_01_login.py(test_02_login_fail_pwd_error:36)] - 登录结果:密码错误1次,达到3次将锁定账户
+2026-07-14 15:24:22,474 ERROR [base.py(fd_element:27)] - 元素定位超时，定位信息：('css selector', '注册成功！')，错误详情：Message: 
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff725cd74c5+e415]
+	msedgedriver!GetHandleVerifier [0x7ff725cd7524+e474]
+	msedgedriver!GetHandleVerifier [0x7ff726356b86+68dad6]
+	msedgedriver!(No symbol) [0x7ff7256d07a2]
+	msedgedriver!(No symbol) [0x7ff7256d0a15]
+	msedgedriver!(No symbol) [0x7ff72570e9c7]
+	msedgedriver!(No symbol) [0x7ff7256c73b7]
+	msedgedriver!(No symbol) [0x7ff72570c688]
+	msedgedriver!(No symbol) [0x7ff7256c6bfc]
+	msedgedriver!(No symbol) [0x7ff7256c5e56]
+	msedgedriver!(No symbol) [0x7ff7256c6a23]
+	msedgedriver!(No symbol) [0x7ff725901131]
+	msedgedriver!(No symbol) [0x7ff7258fd54f]
+	msedgedriver!(No symbol) [0x7ff72590e3d9]
+	msedgedriver!GetHandleVerifier [0x7ff725cf2bb1+29b01]
+	msedgedriver!GetHandleVerifier [0x7ff725cfb3b6+32306]
+	msedgedriver!GetHandleVerifier [0x7ff725cdf024+15f74]
+	msedgedriver!GetHandleVerifier [0x7ff725cdf145+16095]
+	msedgedriver!GetHandleVerifier [0x7ff725ccb563+24b3]
+	KERNEL32!BaseThreadInitThunk [0x7ffd9c22e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffd9d46c48c+2c]
+
+2026-07-14 15:30:52,763 ERROR [base.py(fd_element:27)] - 元素定位超时，定位信息：('css selector', '注册成功！')，错误详情：Message: 
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff725cd74c5+e415]
+	msedgedriver!GetHandleVerifier [0x7ff725cd7524+e474]
+	msedgedriver!GetHandleVerifier [0x7ff726356b86+68dad6]
+	msedgedriver!(No symbol) [0x7ff7256d07a2]
+	msedgedriver!(No symbol) [0x7ff7256d0a15]
+	msedgedriver!(No symbol) [0x7ff72570e9c7]
+	msedgedriver!(No symbol) [0x7ff7256c73b7]
+	msedgedriver!(No symbol) [0x7ff72570c688]
+	msedgedriver!(No symbol) [0x7ff7256c6bfc]
+	msedgedriver!(No symbol) [0x7ff7256c5e56]
+	msedgedriver!(No symbol) [0x7ff7256c6a23]
+	msedgedriver!(No symbol) [0x7ff725901131]
+	msedgedriver!(No symbol) [0x7ff7258fd54f]
+	msedgedriver!(No symbol) [0x7ff72590e3d9]
+	msedgedriver!GetHandleVerifier [0x7ff725cf2bb1+29b01]
+	msedgedriver!GetHandleVerifier [0x7ff725cfb3b6+32306]
+	msedgedriver!GetHandleVerifier [0x7ff725cdf024+15f74]
+	msedgedriver!GetHandleVerifier [0x7ff725cdf145+16095]
+	msedgedriver!GetHandleVerifier [0x7ff725ccb563+24b3]
+	KERNEL32!BaseThreadInitThunk [0x7ffd9c22e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffd9d46c48c+2c]
+
+2026-07-14 15:34:13,677 INFO [test_02_register.py(test_01_register_success:24)] - 注册结果:恭喜您，注册成功！
+2026-07-14 15:35:04,919 INFO [test_02_register.py(test_01_register_success:24)] - 注册结果:恭喜您，注册成功！
+2026-07-14 15:40:39,396 INFO [test_02_register.py(test_02_register_fail_phone_exist:35)] - 注册结果:注册抢88现金
+2026-07-14 15:41:23,878 INFO [test_02_register.py(test_02_register_fail_phone_exist:35)] - 注册结果:注册抢88现金
+2026-07-14 15:42:58,213 INFO [test_02_register.py(test_02_register_fail_phone_exist:35)] - 注册结果:注册抢88现金
+2026-07-14 15:44:18,905 ERROR [base.py(fd_element:27)] - 元素定位超时，定位信息：('css selector', 'reg-title')，错误详情：Message: 
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff725cd74c5+e415]
+	msedgedriver!GetHandleVerifier [0x7ff725cd7524+e474]
+	msedgedriver!GetHandleVerifier [0x7ff726356b86+68dad6]
+	msedgedriver!(No symbol) [0x7ff7256d07a2]
+	msedgedriver!(No symbol) [0x7ff7256d0a15]
+	msedgedriver!(No symbol) [0x7ff72570e9c7]
+	msedgedriver!(No symbol) [0x7ff7256c73b7]
+	msedgedriver!(No symbol) [0x7ff72570c688]
+	msedgedriver!(No symbol) [0x7ff7256c6bfc]
+	msedgedriver!(No symbol) [0x7ff7256c5e56]
+	msedgedriver!(No symbol) [0x7ff7256c6a23]
+	msedgedriver!(No symbol) [0x7ff725901131]
+	msedgedriver!(No symbol) [0x7ff7258fd54f]
+	msedgedriver!(No symbol) [0x7ff72590e3d9]
+	msedgedriver!GetHandleVerifier [0x7ff725cf2bb1+29b01]
+	msedgedriver!GetHandleVerifier [0x7ff725cfb3b6+32306]
+	msedgedriver!GetHandleVerifier [0x7ff725cdf024+15f74]
+	msedgedriver!GetHandleVerifier [0x7ff725cdf145+16095]
+	msedgedriver!GetHandleVerifier [0x7ff725ccb563+24b3]
+	KERNEL32!BaseThreadInitThunk [0x7ffd9c22e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffd9d46c48c+2c]
+
+2026-07-14 16:39:20,709 INFO [test_02_register.py(test_01_register_success:24)] - 注册结果:恭喜您，注册成功！
+2026-07-14 17:02:23,122 INFO [test_01_login_ex.py(test_01_login:28)] - 登录结果:
+2026-07-14 17:02:32,502 INFO [test_01_login_ex.py(test_01_login:28)] - 登录结果:
+2026-07-14 17:02:42,106 INFO [test_01_login_ex.py(test_01_login:28)] - 登录结果:
+2026-07-14 17:02:51,805 INFO [test_01_login_ex.py(test_01_login:28)] - 登录结果:
+2026-07-14 17:03:58,531 INFO [test_01_login_ex.py(test_01_login:28)] - 登录结果:15800005004
+2026-07-14 17:04:08,365 INFO [test_01_login_ex.py(test_01_login:28)] - 登录结果:
+2026-07-14 17:04:18,223 INFO [test_01_login_ex.py(test_01_login:28)] - 登录结果:
+2026-07-14 17:04:31,173 INFO [test_01_login_ex.py(test_01_login:28)] - 登录结果:
+2026-07-14 17:06:17,424 INFO [test_02_register.py(test_02_register_fail_phone_exist:35)] - 注册结果:注册抢88现金
+2026-07-14 17:06:53,166 INFO [test_01_login.py(test_01_login_success:25)] - 登录结果:13800001001
+2026-07-14 17:08:20,144 INFO [test_01_login_ex.py(test_01_login:28)] - 登录结果:13800001001
+2026-07-14 17:08:33,164 INFO [test_01_login_ex.py(test_01_login:28)] - 登录结果:
+2026-07-14 17:08:46,219 INFO [test_01_login_ex.py(test_01_login:28)] - 登录结果:
+2026-07-14 17:08:59,158 INFO [test_01_login_ex.py(test_01_login:28)] - 登录结果:
+2026-07-14 17:16:40,954 ERROR [base.py(fd_element:27)] - 元素定位超时，定位信息：('css selector', '#err > span')，错误详情：Message: 
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff725cd74c5+e415]
+	msedgedriver!GetHandleVerifier [0x7ff725cd7524+e474]
+	msedgedriver!GetHandleVerifier [0x7ff726356b86+68dad6]
+	msedgedriver!(No symbol) [0x7ff7256d07a2]
+	msedgedriver!(No symbol) [0x7ff7256d0a15]
+	msedgedriver!(No symbol) [0x7ff72570e9c7]
+	msedgedriver!(No symbol) [0x7ff7256c73b7]
+	msedgedriver!(No symbol) [0x7ff72570c688]
+	msedgedriver!(No symbol) [0x7ff7256c6bfc]
+	msedgedriver!(No symbol) [0x7ff7256c5e56]
+	msedgedriver!(No symbol) [0x7ff7256c6a23]
+	msedgedriver!(No symbol) [0x7ff725901131]
+	msedgedriver!(No symbol) [0x7ff7258fd54f]
+	msedgedriver!(No symbol) [0x7ff72590e3d9]
+	msedgedriver!GetHandleVerifier [0x7ff725cf2bb1+29b01]
+	msedgedriver!GetHandleVerifier [0x7ff725cfb3b6+32306]
+	msedgedriver!GetHandleVerifier [0x7ff725cdf024+15f74]
+	msedgedriver!GetHandleVerifier [0x7ff725cdf145+16095]
+	msedgedriver!GetHandleVerifier [0x7ff725ccb563+24b3]
+	KERNEL32!BaseThreadInitThunk [0x7ffd9c22e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffd9d46c48c+2c]
+
+2026-07-14 17:16:53,661 INFO [test_01_login_ex.py(test_02_login_fail_pwd_error:38)] - 登录结果:密码错误1次,达到3次将锁定账户
+2026-07-14 17:17:02,895 INFO [test_01_login_ex.py(test_02_login_fail_pwd_error:38)] - 登录结果:用户不存在
+2026-07-14 17:17:12,954 INFO [test_01_login_ex.py(test_02_login_fail_pwd_error:38)] - 登录结果:用户名或密码不能为空
+2026-07-14 17:20:35,444 INFO [test_01_login_ex.py(test_01_login:30)] - 登录结果:13800001001
+2026-07-14 17:20:44,752 INFO [test_01_login_ex.py(test_01_login:30)] - 登录结果:密码错误1次,达到3次将锁定账户
+2026-07-14 17:20:54,768 INFO [test_01_login_ex.py(test_01_login:30)] - 登录结果:用户不存在
+2026-07-14 17:21:04,723 INFO [test_01_login_ex.py(test_01_login:30)] - 登录结果:用户名或密码不能为空
